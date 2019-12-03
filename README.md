@@ -2,6 +2,8 @@
 
 Deploying a multicloud website in Amazon Web Services (AWS), Microsoft Azure & Google Cloud Platform (GCP) using Terrraform and Cloudflare.
 
+Blog --> https://medium.com/@gmusumeci/how-to-build-step-by-step-a-multi-cloud-website-running-on-aws-azure-and-google-cloud-with-39dc98436891
+
 ![High Level design](multicloud-aws-azure-gcp-cloudflare.png)
 
 **aws-main.tf** --> Create AWS network components, security rules and EC2 instance
